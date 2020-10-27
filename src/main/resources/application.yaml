@@ -1,0 +1,9 @@
+spring:
+  mqtt:
+    username: kwhua
+    password: 123456
+    host-url: tcp://127.0.0.1:1883
+    client-id: test
+    default-topic: mytopic
+    timeout: 100
+    keepalive: 10
